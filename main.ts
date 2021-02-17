@@ -62,29 +62,29 @@ enum Channels {
 }
 enum SpreadingFactors {
     //% block="Seven"
-    Seven = 5,
+    Seven = 7,
     //% block="Eight"
-    Eight = 4,
+    Eight = 8,
     //% block="Nine"
-    Nine = 3,
+    Nine = 9,
     //% block="Ten"
-    Ten = 2,
+    Ten = 10,
     //% block="Eleven"
-    Eleven = 1,
+    Eleven = 11,
     //% block="Twelve"
-    Twelve = 0
+    Twelve = 12
 
 }
 
 enum CodingRates {
     //% block="4/5"
-    FourFive = 5,
+    FourFive = 1,
     //% block="4/6"
-    FourSix = 6,
+    FourSix = 2,
     //% block="4/7"
-    FourSeven = 7,
+    FourSeven = 3,
     //% block="4/8"
-    FourEight = 8
+    FourEight = 4
 
 }
 
