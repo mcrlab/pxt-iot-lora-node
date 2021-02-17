@@ -1,7 +1,7 @@
 {
-    "name": "IoTLoRaNode",
+    "name": "JamesIoTLora",
     "version": "0.1.38",
-    "description": "Package for Pi Supply IoT LoRa Node",
+    "description": "Updated Package for Pi Supply IoT LoRa Node",
     "license": "GPL V3",
     "dependencies": {
         "core": "*"
